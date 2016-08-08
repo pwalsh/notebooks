@@ -20,11 +20,19 @@ You need to have Python 3 installed on your computer.
 
 Install the dependencies with `pip install --upgrade -r requirements.txt`.
 
-There are 4 dependencies.
+There are 5 dependencies.
+
+#### bokeh
+
+So that we can embed visualisations right into our notebooks.
+
+- [Documentation](http://bokeh.pydata.org)
+- [Source code](https://github.com/bokeh/bokeh)
+- [Tutorial](http://bokeh.pydata.org/en/0.11.1/docs/user_guide/charts.html)
 
 #### jupyter
 
-So that we can use Jupyter notebooks, and build a narrative with code, text, and visuals!
+So that we can use Jupyter notebooks, and build a narrative with code, text, and visuals.
 
 - [Documentation](https://jupyter.readthedocs.io)
 - [Source code](https://github.com/jupyter/jupyter)
@@ -32,7 +40,7 @@ So that we can use Jupyter notebooks, and build a narrative with code, text, and
 
 #### pandas
 
-So that we can work with data easily, using the most popular Python tool for data scientists!
+So that we can work with data easily, using the most popular Python tool for data scientists.
 
 - [Documentation](http://pandas.pydata.org)
 - [Source code](https://github.com/pydata/pandas)
