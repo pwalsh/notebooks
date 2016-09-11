@@ -1,6 +1,6 @@
 # Jupyter Notebooks
 
-A collection of Jupyter notebooks.
+A collection of Jupyter notebooks for data exploration.
 
 ## Open Data Projects with Python
 
