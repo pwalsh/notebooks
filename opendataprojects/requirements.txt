@@ -3,3 +3,4 @@ jupyter
 pyquery
 requests
 python-dateutil
+pandas
