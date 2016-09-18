@@ -2,7 +2,7 @@
 
 Learning to program can be easier when you have a problem to solve. The notebooks here are simple examples of working with open data to answer real world questions or problems.
 
-This material was originally written for (PyConUK 2016)[http://2016.pyconuk.org/workshops/open-data-projects-with-python/], and the accompanying presentation is [here](https://github.com/pwalsh/presentations/tree/master/opendataprojects).
+This material was originally written for [PyConUK 2016](http://2016.pyconuk.org/workshops/open-data-projects-with-python/), and the accompanying presentation is [here](https://github.com/pwalsh/presentations/tree/master/opendataprojects).
 
 ## Skill level
 
